@@ -28,7 +28,7 @@ a=b
 b=temp
 print("Swapped values are:",(a),(b))
 
-### OUTPUT 
+### OUTPUT
 
 ![output](./values.jpg)
 
