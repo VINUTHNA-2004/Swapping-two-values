@@ -29,7 +29,7 @@ print("Swapped values are:",(a),(b))
 
 ### OUTPUT
 
-![output](values.jpeg) 
+![output](Values.jpg) 
 
 
 
